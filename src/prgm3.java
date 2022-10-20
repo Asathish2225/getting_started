@@ -1,0 +1,2 @@
+public class prgm3 {
+}
